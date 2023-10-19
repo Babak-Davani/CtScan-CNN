@@ -22,10 +22,10 @@ Reference: RSNA Abdominal Trauma Detection Challenge
 ## Data
 Data was downloaded from the [RSNA 2023 Abdominal Trauma Detection](https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection/data)
 
-This dataset contains approximately 8k images with 5 captions each. Due to technical limitations, the dataset was downsampled to approximately 1200 images. The following sections describe the contents within the corresponding Jupyter Notebooks.
+
 
 ## EDA
-The EDA notebook holds initial EDA on images and captions. Images were displayed alongside their captions. Random images and their first captions along with a single image and multiple captions were checked. Captions were then put into a dataframe alongside the relevant images for preprocessing.
+
 
 ## Pre-processing
 
