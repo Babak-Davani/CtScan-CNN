@@ -1,2 +1,16 @@
-ABD/
-IMDB data/
+# Vscode, jupyer & python
+__pycache__/
+.ipynb_checkpoints/
+.vscode
+.neptune
+*.code-workspace
+
+
+# Extensions
+*.7z
+*.zip
+*.csv
+
+
+
+
