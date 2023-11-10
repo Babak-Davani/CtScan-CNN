@@ -1,5 +1,6 @@
 # Vscode, jupyer & python
 __pycache__/
+sample/
 .ipynb_checkpoints/
 .vscode
 .neptune
