@@ -1,6 +1,7 @@
 # Folders
 sample/
 data/
+Old/
 
 # Vscode, jupyer & python
 __pycache__/
