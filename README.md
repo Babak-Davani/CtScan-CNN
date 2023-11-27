@@ -1,8 +1,5 @@
-# Capstone
-  - [x] Exploring Supervised Machine Learning 
-  - [ ] Exploring Unsupervised Machine Learning
-  - [ ] Upload final project to Synapse when all tasks are complete :tada:
-  - [ ] ## Purpose
+# CNN Model for Abdominal Trauma Detection in CT Scans
+
 The purpose of this project is to use transfer learning for caption generation given an image input. This model will be useful for automated captioning for accessibility in the form of ALT text as well as automated captioning for SEO.
 
 ## Proposal 
@@ -29,8 +26,28 @@ Data was downloaded from the [RSNA 2023 Abdominal Trauma Detection](https://www.
 
 ## Pre-processing
 
+## Overview
+This project develops a Convolutional Neural Network (CNN) model using PyTorch, aimed at detecting and classifying traumatic abdominal injuries from CT scans.
 
-'# CNN Model using PyTorch for Abdominal Trauma Detection in CT scan\n\n> Detect and classify traumatic abdominal injuries\n\n![CTScan.jpg](attachment:4564ac86-89bd-4494-9d8d-41002c11a91e.jpg)\n# Version Check\n## 1. Data Loading and Preprocessing\nFirst, we\'ll define the code for loading and preprocessing the data. This involves normalizing the tensors and splitting the dataset into training and validation sets.\n### Dataset Preparation with Balancing\n## 2. CNN Model Architecture\nNext, we\'ll define a simple 3D CNN model architecture.\n## 3. Training the Model\nFinally, we\'ll set up a basic training loop.\n## 4.Evaluate the Model\n<div id="container" style="position:relative;">\n<div style="position:relative; float:right"><img style="height:100px""width: 100px" src ="Project logo.png" />\n</div>\n</div>'
+## Key Components
+1. **Data Loading and Preprocessing**: Implementation of loading and preprocessing steps for the dataset, including normalization and splitting into training and validation sets.
+
+2. **CNN Model Architecture**: A simple 3D CNN model architecture is defined for processing the CT scan images.
+
+3. **Training**: Setup and execution of a basic training loop for the CNN model.
+
+4. **Evaluation**: Methods to evaluate the model's performance on the validation dataset.
+
+## Technologies Used
+- **PyTorch**: For building and training the CNN model.
+- **Data Processing Tools**: For handling and preprocessing the CT scan dataset.
+
+## How to Run
+- Ensure you have PyTorch and other necessary libraries installed.
+- Follow the steps outlined in the notebook, starting from data loading to model evaluation.
+
+## Results
+
 
 
 ## Final
