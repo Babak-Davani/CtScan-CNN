@@ -1,9 +1,8 @@
-# Capstone
-  - [x] Exploring Supervised Machine Learning 
-  - [ ] Exploring Unsupervised Machine Learning
-  - [ ] Upload final project to Synapse when all tasks are complete :tada:
-  - [ ] ## Purpose
-The purpose of this project is to use transfer learning for caption generation given an image input. This model will be useful for automated captioning for accessibility in the form of ALT text as well as automated captioning for SEO.
+# CNN Model for Abdominal Trauma Detection in CT Scans
+
+<div align="center">
+  <p><img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="Image1" width="500"></p>
+</div>
 
 ## Proposal 
 1. Problem Area:
@@ -29,8 +28,28 @@ Data was downloaded from the [RSNA 2023 Abdominal Trauma Detection](https://www.
 
 ## Pre-processing
 
+## Overview
+This project develops a Convolutional Neural Network (CNN) model using PyTorch, aimed at detecting and classifying traumatic abdominal injuries from CT scans.
 
-## Modeling
+## Key Components
+1. **Data Loading and Preprocessing**: Implementation of loading and preprocessing steps for the dataset, including normalization and splitting into training and validation sets.
+
+2. **CNN Model Architecture**: A simple 3D CNN model architecture is defined for processing the CT scan images.
+
+3. **Training**: Setup and execution of a basic training loop for the CNN model.
+
+4. **Evaluation**: Methods to evaluate the model's performance on the validation dataset.
+
+## Technologies Used
+- **PyTorch**: For building and training the CNN model.
+- **Data Processing Tools**: For handling and preprocessing the CT scan dataset.
+
+## How to Run
+- Ensure you have PyTorch and other necessary libraries installed.
+- Follow the steps outlined in the notebook, starting from data loading to model evaluation.
+
+## Results
+
 
 
 ## Final
