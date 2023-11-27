@@ -30,7 +30,7 @@ Data was downloaded from the [RSNA 2023 Abdominal Trauma Detection](https://www.
 ## Pre-processing
 
 
-## Modeling
+'# CNN Model using PyTorch for Abdominal Trauma Detection in CT scan\n\n> Detect and classify traumatic abdominal injuries\n\n![CTScan.jpg](attachment:4564ac86-89bd-4494-9d8d-41002c11a91e.jpg)\n# Version Check\n## 1. Data Loading and Preprocessing\nFirst, we\'ll define the code for loading and preprocessing the data. This involves normalizing the tensors and splitting the dataset into training and validation sets.\n### Dataset Preparation with Balancing\n## 2. CNN Model Architecture\nNext, we\'ll define a simple 3D CNN model architecture.\n## 3. Training the Model\nFinally, we\'ll set up a basic training loop.\n## 4.Evaluate the Model\n<div id="container" style="position:relative;">\n<div style="position:relative; float:right"><img style="height:100px""width: 100px" src ="Project logo.png" />\n</div>\n</div>'
 
 
 ## Final
