@@ -36,7 +36,7 @@ This project develops a Convolutional Neural Network (CNN) model using PyTorch, 
 
 2. **CNN Model Architecture**: A simple 3D CNN model architecture is defined for processing the CT scan images.
 
-3. **Training**: Setup and execution of a basic training loop for the CNN model.
+3. **Training**: Setup and execution of a training loop for the CNN model.
 
 4. **Evaluation**: Methods to evaluate the model's performance on the validation dataset.
 
@@ -46,11 +46,28 @@ This project develops a Convolutional Neural Network (CNN) model using PyTorch, 
 
 ## How to Run
 - Ensure you have PyTorch and other necessary libraries installed.
+- For installing all necessary libraries, you can use the .yml file `conda env create -f environment.yml`
 - Follow the steps outlined in the notebook, starting from data loading to model evaluation.
 
-## Results
+## Model Accuracy Results
 
+The CNN model demonstrates high accuracy in classifying different conditions of abdominal organs in CT scans. The results are as follows:
 
+- **Bowel Injury**: 98.57% accuracy
+- **Kidney Analysis**:
+  - Healthy: 92.86%
+  - Low Damage: 94.92%
+  - High Damage: 98.10%
+- **Liver Analysis**:
+  - Healthy: 85.71%
+  - Low Damage: 90.79%
+  - High Damage: 97.94%
+- **Spleen Analysis**:
+  - Healthy: 84.76%
+  - Low Damage: 92.70%
+  - High Damage: 93.81%
+
+These results indicate the model's effectiveness in accurately identifying various states of trauma in abdominal organs.
 
 ## Final
 
