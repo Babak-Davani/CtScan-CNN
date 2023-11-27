@@ -1,7 +1,7 @@
 # CNN Model for Abdominal Trauma Detection in CT Scans
 
 <div align="center">
-  <p><img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="Image1" width="500"></p>
+  <p><img src="icons/Project logo.png" alt="Image1" width="500"></p>
 </div>
 
 ## Proposal 
