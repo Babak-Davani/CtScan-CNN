@@ -61,7 +61,9 @@ This project develops a Convolutional Neural Network (CNN) model using PyTorch, 
 
 ## Technologies Used
 - **PyTorch**: For building and training the CNN model.
-- **Data Processing Tools**: For handling and preprocessing the CT scan dataset.
+<div align="center">
+  <p><img src="Screenshots/CNN Model Architecture.png" alt="CNN Model Architecture" width="800"></p>
+</div>
 
 ## Model Accuracy Results
 
