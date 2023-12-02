@@ -39,12 +39,12 @@ Data was downloaded from the [RSNA 2023 Abdominal Trauma Detection](https://www.
 
 ## EDA
 <div align="center">
-  <p><img src="icons/EDA.png" alt="EDA" width="800"></p>
+  <p><img src="Screenshots/EDA.png" alt="EDA" width="800"></p>
 </div>
 
 ## Pre-processing
 <div align="center">
-  <p><img src="icons/Prepossessing.jpeg" alt="Pre-processing" width="800"></p>
+  <p><img src="Screenshots/Prepossessing.jpeg" alt="Pre-processing" width="800"></p>
 </div>
 
 ## Overview
