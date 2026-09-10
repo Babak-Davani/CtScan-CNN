@@ -1,21 +1,17 @@
-# Downloaded competition data and generated artifacts
-data/
-artifacts/
+# Folders
 sample/
+data/
 Old/
+
+# Vscode, jupyer & python
+__pycache__/
+.ipynb_checkpoints/
+.vscode
+.neptune
+*.code-workspace
+
+
+# Extensions
 *.7z
 *.zip
 *.csv
-
-# Python and Jupyter
-__pycache__/
-*.py[cod]
-.ipynb_checkpoints/
-.neptune/
-
-# Local environments and editor files
-.env
-.venv/
-.idea/
-.vscode/
-*.code-workspace
