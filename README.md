@@ -44,7 +44,7 @@ Data was downloaded from the [RSNA 2023 Abdominal Trauma Detection](https://www.
 
 ## Pre-processing
 <div align="center">
-  <p><img src="Screenshots/Prepossessing.jpeg" alt="Pre-processing" width="800"></p>
+  <p><img src="Screenshots/Preprocessing.jpeg" alt="Pre-processing" width="800"></p>
 </div>
 
 ## Overview
